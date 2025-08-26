@@ -1,6 +1,11 @@
 @import "tailwindcss";
 @import url('https://fonts.cdnfonts.com/css/lostina');
 
-.logo-txt{
-    font-family: 'Lostina';                                             
+.logo-txt {
+    font-family: 'Lostina';
+}
+
+.div-head {
+    font-family: 'Vilanders Sans';
+
 }

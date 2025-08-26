@@ -10,9 +10,9 @@ function Navbar() {
         </div>
         <div className='pt-5 text-2xl font-bold'>
           <Link to={"/"} className='p-10 pr-5'>Home</Link>
-          <Link to={"/about"} className='p-10 pr-5'>page1</Link>
-          <Link to={"/contact"} className='p-10 pr-5'>page2</Link>
-          <Link to={"/contact"} className='p-10 pr-5'>page3</Link>
+          <Link to={"/page1"} className='p-10 pr-5'>page1</Link>
+          <Link to={"/page2"} className='p-10 pr-5'>page2</Link>
+          <Link to={"/page3"} className='p-10 pr-5'>page3</Link>
         </div>
       </nav>
     </>
