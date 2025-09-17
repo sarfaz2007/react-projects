@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Navbar from './assets/components/Navbar'
 import "@fortawesome/fontawesome-free/css/all.min.css"
+import { Hero } from './assets/components/Hero'
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
   return (
     <>
     <Navbar/>
+    <Hero/>
     </>
   )
 }
