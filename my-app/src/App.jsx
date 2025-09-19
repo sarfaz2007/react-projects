@@ -5,6 +5,7 @@ import './App.css'
 import Navbar from './assets/components/Navbar'
 import "@fortawesome/fontawesome-free/css/all.min.css"
 import { Hero } from './assets/components/Hero'
+import Analytics from './assets/components/Analytics'
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
     <>
     <Navbar/>
     <Hero/>
+    <Analytics/>
     </>
   )
 }
