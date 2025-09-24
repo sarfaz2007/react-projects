@@ -27,7 +27,7 @@ export const Hero = () => {
           </ReactTyped>
         </div>
         <p className="md:text-2xl text-xl font-bold text-gray-600">monitor your data analytics to increase revenue for BTB,BTC, & SASS platforms.</p>
-        <button className="bg-[#00df9a] w-[200px] h-[50px] rounded-md font-medium my-6 mx-auto p]y-3 text-black">Get started </button>
+        <button className="bg-[#00df9a] w-[200px] h-[50px] rounded-md font-medium my-6 mx-auto py-3 text-black text-xl">Get started </button>
       </div>
     </div>
   )

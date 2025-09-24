@@ -6,6 +6,7 @@ import Navbar from './assets/components/Navbar'
 import "@fortawesome/fontawesome-free/css/all.min.css"
 import { Hero } from './assets/components/Hero'
 import Analytics from './assets/components/Analytics'
+import Newsletter from './assets/components/Newsletter'
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
     <Navbar/>
     <Hero/>
     <Analytics/>
+    <Newsletter/>
     </>
   )
 }
