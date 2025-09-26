@@ -7,6 +7,7 @@ import "@fortawesome/fontawesome-free/css/all.min.css"
 import { Hero } from './assets/components/Hero'
 import Analytics from './assets/components/Analytics'
 import Newsletter from './assets/components/Newsletter'
+import Cards from './assets/components/Cards'
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
     <Hero/>
     <Analytics/>
     <Newsletter/>
+    <Cards/>
     </>
   )
 }
